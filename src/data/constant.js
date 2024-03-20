@@ -141,8 +141,8 @@ export const projects = [
     image:
     "https://i.ibb.co/rdMqy4L/nithish.png" ,
     tags: ["HTML", "CSS", "Javascript", "Bootstrap", "React JS","Styled Components"],
-    github: "https://github.com/veeravelS/Personal-portfolio-Website.git",
-    webapp: " https://veeravels.github.io/Personal-portfolio-Website/",
+    github: "https://github.com/nithish-mr/portfolio-website",
+    webapp: "https://nithish-mr.github.io/portfolio-website/",
   },
   // {
   //   id: 3,
